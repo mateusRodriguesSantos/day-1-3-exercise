@@ -7,5 +7,8 @@ countLetters = len(name)
 
 print(countLetters)
 
+#OR --- Similar Solution
+
+print(len(input("Digite seu nome: ")))
 
 
